@@ -3,4 +3,9 @@ Middle Name: C.
 Last Name: Bihag
 Age: 20
 Birthdate: December 17, 2004
+Birth Place: General  Santos
+Religion: Catholic
+Father’s Name: Albert Bihag
+Mother’s Name: Chona Bihag
+
 
